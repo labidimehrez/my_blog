@@ -5,4 +5,4 @@
 -phpDocumentor.phar
 -php-cs-fixer
 -composer.phar
-- phpcs  phpcbf phploc   phpcpd
+- phpcs                                                                                                                          - phpcbf                                                                                                                        - phploc                                                                                                                        - phpcpd
